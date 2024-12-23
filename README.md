@@ -3,7 +3,7 @@ A Power BI dashboard analyzing bike buyer demographics and trends
 Overview
 This Power BI dashboard analyzes a dataset of bike buyers, focusing on key demographic and occupational insights. It provides a visual summary of buyer profiles based on age, marital status, and occupation.
 Features
-1.	Region Filter:
+1.	Region Filter:</br>
 o	A dropdown slicer allows filtering data by region to analyze trends across different areas.
 2.	Average Age:
 o	A KPI card displays the average age of individuals in the dataset.
